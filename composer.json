@@ -1,5 +1,5 @@
 {
-    "name":"devfuming/mailqueue",
+    "name":"mailer/queue",
     "type":"yii2-extension",
     "description":"The Async mailer for the Yii framework",
     "keyword":["yii2","redis","async", "mailer'"],
@@ -28,3 +28,5 @@
         }
     }
 }
+
+
